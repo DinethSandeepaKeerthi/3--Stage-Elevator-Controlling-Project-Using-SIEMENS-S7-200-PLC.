@@ -246,9 +246,6 @@ S1 ON? → STOP    S2 ON?→STOP  S2 ON?→STOP  S3 ON? → STOP
 
 ## 📷 Project Images & Demo
 
-> *(Add your wiring photos, PLC panel images, and sensor setup images here.)*
-> *(Link your demonstration video below.)*
-
 🎬 **Demonstration Video:** [Watch on YouTube / LinkedIn / Drive](#)
 
 ---
