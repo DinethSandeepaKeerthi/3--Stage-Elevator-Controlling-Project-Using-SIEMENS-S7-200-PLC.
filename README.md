@@ -1,7 +1,7 @@
 # 🏗️ 3-Stage Elevator Controlling Project
 ### Using SIEMENS S7-200 PLC + TB6600 Stepper Driver + NEMA 17 Motor
 
-> **Assignment 03 | Industrial Automation | KEERTHI P.E.D.S.**
+> **Industrial Automation | KEERTHI P.E.D.S.**
 
 ---
 
@@ -51,7 +51,7 @@ The system is designed to demonstrate real-world industrial PLC programming conc
 [PB01 Floor 1] ──┐
 [PB02 Floor 2] ──┤──► SIEMENS S7-200 PLC ──► TB6600 Driver ──► NEMA 17 Motor
 [PB03 Floor 3] ──┘         │                                        │
-                            │                                    [Elevator Car]
+                            │                                    [Elevator]
 [S1 Floor 1 Sensor] ───────┤
 [S2 Floor 2 Sensor] ───────┤◄── Position Feedback
 [S3 Floor 3 Sensor] ───────┘
@@ -277,7 +277,7 @@ S1 ON? → STOP    S2 ON?→STOP  S2 ON?→STOP  S3 ON? → STOP
 ## 👤 Author
 
 **KEERTHI P.E.D.S.**
-Assignment 03 — Industrial PLC Automation
+Industrial PLC Automation
 SIEMENS S7-200 | Ladder Logic | Stepper Motor Control
 
 ---
