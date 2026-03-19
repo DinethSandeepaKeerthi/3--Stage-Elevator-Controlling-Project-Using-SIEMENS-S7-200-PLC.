@@ -246,7 +246,7 @@ S1 ON? → STOP    S2 ON?→STOP  S2 ON?→STOP  S3 ON? → STOP
 
 ## 📷 Project Images & Demo
 
-🎬 **Demonstration Video:** [Watch on YouTube / LinkedIn / Drive](#)
+🎬 **Demonstration Video:** [[Watch on YouTube / LinkedIn / Drive](https://www.linkedin.com/posts/dineth-sandeepa-keerthi-b47879213_plc-industrialautomation-siemenss7200-activity-7440238781863022593-asw6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYOSicBFv0ozNG0GC2kwkhN0hb40oej748)](#)
 
 ---
 
